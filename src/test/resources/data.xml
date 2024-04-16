@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <Weather pincode="505452" area_name="Karimnagar" max_temp="12.5" min_temp="13.4" humidity="High" rainfall="High" wind="Strong" danger="False"/>
+    <Weather pincode="505432" area_name="Jagtial" max_temp="13.5" min_temp="15.4" humidity="low" rainfall="high" wind="weak" danger="true"/>
+</dataset>
+
